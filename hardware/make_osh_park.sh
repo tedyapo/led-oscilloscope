@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BOARDS=(ad9200_breakout)
+BOARDS=(ad9200_breakout horizontal_driver vertical_driver)
 OSHP_FILES=(topsilkscreen.ger topsoldermask.ger toplayer.ger \
             bottomsilkscreen.ger bottomsoldermask.ger bottomlayer.ger \
             boardoutline.ger drills.xln)
